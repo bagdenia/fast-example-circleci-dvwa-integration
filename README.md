@@ -13,7 +13,7 @@ All build results: https://circleci.com/gh/wallarm/fast-example-circleci-dvwa-in
 2. Fork this repository
 3. Add project into Circle CI (first build will fail without `WALLARM_API_TOKEN`)
 4. Add env-variable `WALLARM_API_TOKEN` in the project settings 
-5. Rerun build. It will find some vulnerabilities
+5. Rerun build. It will find vulnerabilities
 
 ## Useful links
 
@@ -22,4 +22,4 @@ All build results: https://circleci.com/gh/wallarm/fast-example-circleci-dvwa-in
 - DVWA application's source code: https://github.com/wallarm/fast-example-dvwa
 - Full FAST documentation: https://docs.fast.wallarm.com
 
-TRY WALLARM FAST NOW: https://fast.wallarm.com/signup
+Try Wallarm FAST now: https://fast.wallarm.com/signup
